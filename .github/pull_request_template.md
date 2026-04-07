@@ -1,24 +1,21 @@
+## Tipo de mudança
 
-Describe the big picture of your changes here to communicate to the maintainers why we should accept this pull request. If it fixes a bug or resolves a feature request, be sure to link to that issue.
+Quais tipos de mudança o seu código aplica no repositório?
+_Ponha um `x` nas caixinhas onde isso se aplica_
 
-## Types of changes
-
-What types of changes does your code introduce to <repo_name>?
-_Put an `x` in the boxes that apply_
-
-- [ ] Bugfix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] Documentation Update (if none of the other choices apply)
+- [ ] Fix de bug (fix de um problema sem risco de quebrar código)
+- [ ] Funcionalidade nova (adição de funcionalidade sem risco de quebrar código)
+- [ ] Mudança que pode quebrar (fix ou funcionalidade com potencial de quebrar código)
+- [ ] Atualização de documentação (se nenhuma das outras se aplicar)
 
 ## Checklist
 
-_Put an `x` in the boxes that apply. You can also fill these out after creating the PR. If you're unsure about any of them, don't hesitate to ask. We're here to help! This is simply a reminder of what we are going to look for before merging your code._
+_Ponha um `x` nas caixinhas onde isso se aplica ou crie novas caixinhas quando abrir o PR. Se você não tiver certeza, peça ajuda._ 
 
-- [ ] I have read the CONTRIBUTING.md doc.
-- [ ] I have added necessary documentation (if appropriate).
-- [ ] Any dependent changes have been merged and published in downstream modules.
+- [ ] Eu li o documento CONTRIBUTING.md
+- [ ] Eu documentei apropriadamente (se aplicar).
+- [ ] Eu testei o código localmente entrando na pasta 'docs' e rodando localmente por 'docsify serve docs'
 
-## Further comments
+## Comentários gerais
 
-If this is a relatively large or complex change, kick off the discussion by explaining why you chose the solution you did and what alternatives you considered, etc...
+[Para mais informações sobre o Docsify](https://docsify.js.org/#/quickstart)
