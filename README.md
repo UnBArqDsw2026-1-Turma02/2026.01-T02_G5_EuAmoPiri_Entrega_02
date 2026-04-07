@@ -11,7 +11,7 @@ necessários para a realização da entrega 2 da Disciplina de Arquitetura e Des
 
 ## Documentação
 
-A documentação completa pode ser acessada por meio do link ao lado [Acessar documentação](https://unbarqdsw2026-1-turma02.github.io/2026.01-T02_G5_EuAmoPiri_Entrega_01/#/)
+A documentação completa pode ser acessada por meio do link ao lado -> [Acessar documentação](https://unbarqdsw2026-1-turma02.github.io/2026.01-T02_G5_EuAmoPiri_Entrega_01/#/)
 
 ## Equipe
 
