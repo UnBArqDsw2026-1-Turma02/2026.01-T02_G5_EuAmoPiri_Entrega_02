@@ -10,7 +10,7 @@ _Ponha um `x` nas caixinhas onde isso se aplica_
 
 ## Checklist
 
-_Ponha um `x` nas caixinhas onde isso se aplica ou crie novas caixinhas quando abrir o PR. Se você não tiver certeza, peça ajuda._ 
+_Ponha um `x` nas caixinhas onde isso se aplica ou crie novas caixinhas quando abrir o PR_ 
 
 - [ ] Eu li o documento CONTRIBUTING.md
 - [ ] Eu documentei apropriadamente (se aplicar).
