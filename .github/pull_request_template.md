@@ -1,24 +1,20 @@
+## Tipo de mudança
 
-Describe the big picture of your changes here to communicate to the maintainers why we should accept this pull request. If it fixes a bug or resolves a feature request, be sure to link to that issue.
+Quais tipos de mudança o seu código aplica no repositório?
+_Ponha um `x` nas caixinhas onde isso se aplica_
 
-## Types of changes
-
-What types of changes does your code introduce to <repo_name>?
-_Put an `x` in the boxes that apply_
-
-- [ ] Bugfix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] Documentation Update (if none of the other choices apply)
+- [ ] Fix de bug (fix de um problema sem risco de quebrar código).
+- [ ] Atualização de documentação.
 
 ## Checklist
 
-_Put an `x` in the boxes that apply. You can also fill these out after creating the PR. If you're unsure about any of them, don't hesitate to ask. We're here to help! This is simply a reminder of what we are going to look for before merging your code._
+_Ponha um `x` nas caixinhas onde isso se aplica ou crie novas caixinhas quando abrir o PR_ 
 
-- [ ] I have read the CONTRIBUTING.md doc.
-- [ ] I have added necessary documentation (if appropriate).
-- [ ] Any dependent changes have been merged and published in downstream modules.
+- [ ] Eu [citei e referenciei apropriadamente](https://www.marilia.unesp.br/#!/laboratorio-editorial/procedimentos-publicacoes/normas-da-abnt--citacoes-e-referencias/) as fontes que utilizei em todo texto dentro do arquivo ou documento ou artefato.
+- [ ] Eu documentei apropriadamente a contribuição de cada membro dentro do documento ou artefato de forma a individualizar e rastreabilizar a participação em cada pedaço do documento ou artefato.
+- [ ] Eu testei o código localmente entrando na pasta 'docs' e rodando localmente por 'docsify serve docs' (para mudanças dentro da pasta docs que afetarão o GitPages).
+- [ ] Eu preenchi o histórico de versões caso eu tenha feito alguma alteração no arquivo ou documentação.
 
-## Further comments
+## Comentários gerais
 
-If this is a relatively large or complex change, kick off the discussion by explaining why you chose the solution you did and what alternatives you considered, etc...
+[Para mais informações sobre o Docsify](https://docsify.js.org/#/quickstart)
