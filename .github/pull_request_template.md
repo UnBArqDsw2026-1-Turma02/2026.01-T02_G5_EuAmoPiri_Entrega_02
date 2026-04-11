@@ -3,18 +3,16 @@
 Quais tipos de mudança o seu código aplica no repositório?
 _Ponha um `x` nas caixinhas onde isso se aplica_
 
-- [ ] Fix de bug (fix de um problema sem risco de quebrar código)
-- [ ] Funcionalidade nova (adição de funcionalidade sem risco de quebrar código)
-- [ ] Mudança que pode quebrar (fix ou funcionalidade com potencial de quebrar código)
-- [ ] Atualização de documentação (se nenhuma das outras se aplicar)
+- [ ] Fix de bug (fix de um problema sem risco de quebrar código).
+- [ ] Atualização de documentação.
 
 ## Checklist
 
 _Ponha um `x` nas caixinhas onde isso se aplica ou crie novas caixinhas quando abrir o PR_ 
 
-- [ ] Eu li o documento CONTRIBUTING.md
-- [ ] Eu documentei apropriadamente (se aplicar).
-- [ ] Eu testei o código localmente entrando na pasta 'docs' e rodando localmente por 'docsify serve docs'
+- [ ] Eu [citei e referenciei apropriadamente](https://www.marilia.unesp.br/#!/laboratorio-editorial/procedimentos-publicacoes/normas-da-abnt--citacoes-e-referencias/) as fontes que utilizei em todo texto dentro do arquivo ou documento ou artefato.
+- [ ] Eu documentei apropriadamente a contribuição de cada membro dentro do documento ou artefato de forma a individualizar e rastreabilizar a participação em cada pedaço do documento ou artefato.
+- [ ] Eu testei o código localmente entrando na pasta 'docs' e rodando localmente por 'docsify serve docs' (para mudanças dentro da pasta docs que afetarão o GitPages).
 
 ## Comentários gerais
 
