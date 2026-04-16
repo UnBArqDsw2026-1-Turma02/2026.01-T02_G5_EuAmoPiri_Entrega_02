@@ -41,7 +41,7 @@ A documentação completa pode ser acessada por meio do link ao lado -> [Acessar
   <tr>
     <td align="center">
       <img src="https://github.com/annacbrandao.png" width="100"><br>
-      <a href="https://github.com/annacbrandao">Anna Clara Cardoso</a>
+      <a href="https://github.com/annacbrandao">Anna Clara Brandão</a>
     </td>
     <td align="center">
       <img src="https://github.com/Chaotzuu.png" width="100"><br>
