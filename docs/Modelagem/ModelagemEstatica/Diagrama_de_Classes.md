@@ -76,17 +76,19 @@ Eduardo:
 
 Davi: apesar do diagrama de classes parecer mais simples que os outros estáticos à primeira vista, é sempre desafiador seguir a UML à risca, e muitas vezes tivemos de repensar o que estávamos fazendo pelo nosso canal do Discord reservado à confecção deste artefato. As cardinalidades foram um ponto particularmente desafiador para mim. Apesar de já ter visto antes e inclusive ter pego Bancos 1 no semestre passado, tive uma certa confusão em relação a elas quando se tratavam de uma relação de composição, porque o condicionamento da existência dessa relação me deixava confuso em relações 1 por 1, e 1 ou mais por qualquer número (*).
 
-João:
+João: mesmo tendo uma ideia básica de como o diagrama poderia ser modelado considerando o planejamento e as decisões que já haviamos feito até aquele momento a respeito do funcionamento do projeto, a modelagem do diagrama de classes foi se provando cada vez mais complexa conforme avançamos. A relação entre as classes e subclasses, além dos atributos presentes nelas, precisou ser repensada e discutida várias vezes entre os membros no nosso canal de comunicação do Discord. Mas, felizmente, isso nos ajudou a ter uma noção mais clara de como prosseguir.
 
 ## Referências
+
+> BOOCH, Grady; RUMBAUGH, James; JACOBSON, Ivar. OMG Unified Modeling Language. Object Management Group (OMG). [Acessado em: 17 Abr. 2026](https://www.omg.org/spec/UML/#documents)
 
 
 ## Histórico do artefato
 
 | Data       | Versão | Descrição                                                      | Autor                                                       | Revisores |
 | ---------- | ------ | -------------------------------------------------------------- | ----------------------------------------------------------- | --------- |
-| 12/04/2026 | `1.0`  | Criação do diagrama no DrawIo                                  | [Davi do Egito](https://github.com/daviegito)                |
-| 14/04/2026 | `1.1`  |                                   | [João Victor](https://github.com/daviegito)                |
+| 12/04/2026 | `1.0`  | Criação do diagrama no DrawIo                                  | [Davi do Egito](https://github.com/daviegito)               | --------- |
+| 14/04/2026 | `1.1`  | Nomeação e criação das classes, definição dos atributos        | [João Victor](https://github.com/Chaotzuu)                  | --------- |
 | 14/04/2026 | `1.2`  |                                   | [Eduardo Ribeiro](https://github.com/EduardoRibeiroXavier)                |
 | 14/04/2026 | `1.3`  |                                | [Eduardo Ribeiro](https://github.com/EduardoRibeiroXavier)                |
 | 14/04/2026 | `1.4`  | Colocação das devidas composições                                  | [Davi do Egito](https://github.com/daviegito)                |
