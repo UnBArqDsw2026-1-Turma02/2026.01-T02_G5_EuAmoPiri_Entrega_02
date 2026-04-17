@@ -53,7 +53,7 @@ A documentação completa pode ser acessada por meio do link ao lado -> [Acessar
     </td>
     <td align="center">
       <img src="https://github.com/gabrieladouradof.png" width="100"><br>
-      <a href="https://github.com/gabrieladouradof">Gabriela Dourada</a>
+      <a href="https://github.com/gabrieladouradof">Gabriela Dourado</a>
     </td>
     <td align="center">
       <img src="https://github.com/AmandaaMoura.png" width="100"><br>
