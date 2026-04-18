@@ -24,6 +24,82 @@ Os principais relacionamentos utilizados na modelagem são:
 
 O diagrama de classes tem como objetivo apoiar a modelagem estrutural do sistema, representando de forma clara e organizada as classes, seus atributos, métodos e os relacionamentos entre elas. Essa modelagem busca transformar os requisitos do domínio em uma estrutura orientada a objetos, servindo como base para o desenvolvimento da aplicação.
 
+## Evolução do artefato
+
+### Template do DrawIO
+
+![Template do DrawIO - Versão 1.0](https://media.discordapp.net/attachments/1490129621922877520/1494109940502102046/image.png?ex=69e36411&is=69e21291&hm=f1def7b8cd936da492c55cea409c7a894054c5aa081c4e513a7054bbaf19db89&=&format=webp&quality=lossless)
+
+Para elaboração do diagrama de classes, começamos com o template do próprio DrawIO
+
+### Versão 1.1
+
+![Versão 1.1](https://media.discordapp.net/attachments/1490129621922877520/1494669447422804139/image.png?ex=69e372e5&is=69e22165&hm=cd26ea7ef365b62d8c1548b415a315a6abf653348521c97f0b57305f4ebd2a10&=&format=webp&quality=lossless)
+
+### Versão 1.2
+
+![Versão 1.2](https://media.discordapp.net/attachments/1490129621922877520/1494669447888375808/image.png?ex=69e372e5&is=69e22165&hm=28cc6b9b975f78246b5f5bd4a52206d40481c4d5beb6ad2f4a7919c2fae748d3&=&format=webp&quality=lossless)
+
+### Versão 1.3
+
+![Versão 1.3](https://media.discordapp.net/attachments/1490129621922877520/1494669448311996499/image.png?ex=69e372e6&is=69e22166&hm=6a8616e3c3dca1316638e5867069faa6ee6e5ee77fbb2799c794ae574ebebb4f&=&format=webp&quality=lossless)
+
+### Versão 1.4
+
+![Versão 1.4](https://media.discordapp.net/attachments/1490129621922877520/1494669449360441364/image.png?ex=69e372e6&is=69e22166&hm=916295ba8722329d239de8e64953201dfd5f7a326c8032b89202a86fc33ad2ac&=&format=webp&quality=lossless)
+
+Após discussão interna, chegamos à conclusão que algumas das relações entre as entidades eram de composição, uma vez que elas não poderiam existir sem uma outra entidade atrelada. Os exemplos mais emblemáticos são as entidades Avaliação, Relato e Comentário. O relato só consegue existir se houver uma avaliação atrelada, e os comentários, que seriam as réplicas e tréplicas em cima dos relatos, só poderiam existir caso o relato inicial existisse.
+
+### Versão 1.5
+
+![Versão 1.5](https://media.discordapp.net/attachments/1490129621922877520/1494669450824253592/image.png?ex=69e372e6&is=69e22166&hm=891e46ecd9acaf6c2ad7523a6b8ccbcb14e0c79df8983588fca95be4c3d0db92&=&format=webp&quality=lossless)
+
+Durante a nossa confecção, grande parte dos relacionamentos ainda estavam sem uma cardinalidade associada, então buscamos acrescentá-las entre as entidades.
+
+### Versão 1.6
+
+![Versão 1.6](https://media.discordapp.net/attachments/1490129621922877520/1494669451612655686/image.png?ex=69e372e6&is=69e22166&hm=96e3563cdc537dfe05a8d968367d12b9fcba5f4ad33b9e18adf3063feb6704a2&=&format=webp&quality=lossless)
+
+### Versão 1.7
+
+![Versão 1.7](https://media.discordapp.net/attachments/1490129621922877520/1494669452053319710/image.png?ex=69e372e6&is=69e22166&hm=935519e163fbf569a5c684e5a48c490c3989aece70b664220e450d71184ae5b5&=&format=webp&quality=lossless)
+
+Após discussão interna pelo Discord, chegamos à conclusão que algumas das cardinalidades estavam erradas, especialmente em relação às entidades com relação de composição. Buscamos consertar isso nesta versão e submetê-la à equipe revisora.
+
+### Versão final
+
+![Versão final]()
+
+## Visão dos contribuidores na concepção do diagrama
+
+Eduardo:
+
+Davi: apesar do diagrama de classes parecer mais simples que os outros estáticos à primeira vista, é sempre desafiador seguir a UML à risca, e muitas vezes tivemos de repensar o que estávamos fazendo pelo nosso canal do Discord reservado à confecção deste artefato. As cardinalidades foram um ponto particularmente desafiador para mim. Apesar de já ter visto antes e inclusive ter pego Bancos 1 no semestre passado, tive uma certa confusão em relação a elas quando se tratavam de uma relação de composição, porque o condicionamento da existência dessa relação me deixava confuso em relações 1 por 1, e 1 ou mais por qualquer número (*).
+
+João: mesmo tendo uma ideia básica de como o diagrama poderia ser modelado considerando o planejamento e as decisões que já haviamos feito até aquele momento a respeito do funcionamento do projeto, a modelagem do diagrama de classes foi se provando cada vez mais complexa conforme avançamos. A relação entre as classes e subclasses, além dos atributos presentes nelas, precisou ser repensada e discutida várias vezes entre os membros no nosso canal de comunicação do Discord. Mas, felizmente, isso nos ajudou a ter uma noção mais clara de como prosseguir.
+
+## Referências
+
+> BOOCH, Grady; RUMBAUGH, James; JACOBSON, Ivar. OMG Unified Modeling Language. Object Management Group (OMG). [Acessado em: 17 Abr. 2026](https://www.omg.org/spec/UML/#documents)
+
+
+## Histórico do artefato
+
+| Data       | Versão | Descrição                                                      | Autor                                                       | Revisores |
+| ---------- | ------ | -------------------------------------------------------------- | ----------------------------------------------------------- | --------- |
+| 12/04/2026 | `1.0`  | Criação do diagrama no DrawIo                                  | [Davi do Egito](https://github.com/daviegito)               | --------- |
+| 14/04/2026 | `1.1`  | Nomeação e criação das classes, definição dos atributos        | [João Victor](https://github.com/Chaotzuu)                  | --------- |
+| 14/04/2026 | `1.2`  |                                   | [Eduardo Ribeiro](https://github.com/EduardoRibeiroXavier)                |
+| 14/04/2026 | `1.3`  |                                | [Eduardo Ribeiro](https://github.com/EduardoRibeiroXavier)                |
+| 14/04/2026 | `1.4`  | Colocação das devidas composições                                  | [Davi do Egito](https://github.com/daviegito)                |
+| 15/04/2026 | `1.5`  | Colocação das cardinalidades                                  | [Davi do Egito](https://github.com/daviegito)                |
+| 15/04/2026 | `1.6`  |                                 | [Eduardo Ribeiro](https://github.com/EduardoRibeiroXavier)                |
+| 15/04/2026 | `1.7`  | Conserto das cardinalidades                                  | [Davi do Egito](https://github.com/daviegito)                | [Samuel](https://github.com/Samuelvlobo), [Letícia](https://github.com/leticiakrpaiva)
+
+
+## Histórico do documento
+
 | Data       | Versão | Descrição                                                      | Autor                                                       | Revisores |
 | ---------- | ------ | -------------------------------------------------------------- | ----------------------------------------------------------- | --------- |
 | 15/04/2026 | `1.0`  | Criação inicial do documento e elaboração dos tópicos iniciais | [Eduardo Ribeiro](https://github.com/EduardoRibeiroXavier) |
+| 17/04/2026 | `1.1`  | Adição histórico e versionamento dos artefatos | [Davi do Egito](https://github.com/daviegito) |
