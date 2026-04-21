@@ -1,8 +1,10 @@
-# RepositorioTemplate
+# Eu amo Piri
 
-Repositório que deve ser utilizado como template inicial pelos grupos da matéria de Arquitetura e Desenho de Software.
+<br>
+<img width="400" height="50" alt="❤️ EuAmoPiri" src="https://github.com/user-attachments/assets/b31d17ea-0932-4f89-9d4d-c958ca901351" />
+<br>
 
-## Introdução
+## Contexto
 
 Este repositório reune todas as documentações e artefatos do grupo 05
 necessários para a realização da entrega 2 da Disciplina de Arquitetura e Desenho de Software "FGA0208" ministrada pela Prof.ª Milene Serrano - 2026.1

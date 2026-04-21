@@ -1,5 +1,7 @@
+## Tipo de mudança
 
-Describe the big picture of your changes here to communicate to the maintainers why we should accept this pull request. If it fixes a bug or resolves a feature request, be sure to link to that issue.
+Quais tipos de mudança o seu código aplica no repositório?
+_Ponha um `x` nas caixinhas onde isso se aplica_
 
 - [ ] Fix de bug (fix de um problema sem risco de quebrar código).
 - [ ] Atualização de documentação.
@@ -13,6 +15,6 @@ _Ponha um `x` nas caixinhas onde isso se aplica ou crie novas caixinhas quando a
 - [ ] Eu testei o código localmente entrando na pasta 'docs' e rodando localmente por 'docsify serve docs' (para mudanças dentro da pasta docs que afetarão o GitPages).
 - [ ] Eu preenchi o histórico de versões caso eu tenha feito alguma alteração no arquivo ou documentação.
 
-## Further comments
+## Comentários gerais
 
-If this is a relatively large or complex change, kick off the discussion by explaining why you chose the solution you did and what alternatives you considered, etc...
+[Para mais informações sobre o Docsify](https://docsify.js.org/#/quickstart)
