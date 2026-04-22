@@ -13,6 +13,7 @@
       - [2.2.1. Diagrama de Atividades](/Modelagem/ModelagemDinamica/2.2.1.Diagrama_de_Atividades.md)
       - [2.2.2. Diagrama de Estados](/Modelagem/ModelagemDinamica/2.2.2.Diagrama_de_Estados.md)
       - [2.2.3. Diagrama de Colaboração](/Modelagem/ModelagemDinamica/2.2.3.Diagrama_de_Colaboracao.md)
-    - [2.3. Modelagem UML Organizacional ou Casos de Uso](/Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md)
+    - [2.3. Modelagem UML Organizacional ou Casos de Uso](/Modelagem/ModelagemOrganizacional/2.3.ModelagemOrganizacionalCasosDeUso.md)
+      - [2.3.2. Diagrama de Pacotes](/Modelagem/ModelagemOrganizacional/2.3.2.Diagrama_de_Pacotes.md)
     - [2.4. Participações - Modelagem](/Modelagem/2.4.ParticipacoesModelagem.md)
     - [2.5. Iniciativas Extras - Modelagem](/Modelagem/2.5.IniciativasExtras.md)
