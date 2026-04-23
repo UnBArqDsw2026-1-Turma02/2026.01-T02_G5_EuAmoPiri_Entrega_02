@@ -17,3 +17,6 @@
       - [2.3.2. Diagrama de Pacotes](/Modelagem/ModelagemOrganizacional/2.3.2.Diagrama_de_Pacotes.md)
     - [2.4. Participações - Modelagem](/Modelagem/2.4.ParticipacoesModelagem.md)
     - [2.5. Iniciativas Extras - Modelagem](/Modelagem/2.5.IniciativasExtras.md)
+      - [2.5.1. Atas de Reuniões](/Modelagem/2.5.1.Atasreunioes.md)
+          - [2.5.1.1 Ata de Reunião 1](/Modelagem/2.5.1.1.Atareuniao1.md)
+          - [2.5.1.2 Ata de Reunião 2](/Modelagem/2.5.1.2.Atareuniao2.md)
