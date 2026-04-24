@@ -16,6 +16,6 @@
     - [2.3. Modelagem UML Organizacional ou Casos de Uso](/Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md)
     - [2.4. Participações - Modelagem](/Modelagem/2.4.ParticipacoesModelagem.md)
     - [2.5. Iniciativas Extras - Modelagem](/Modelagem/2.5.IniciativasExtras.md)
-      - [2.5.1. Atas de Reuniões](/Modelagem/2.5.1.Atasreunioes.md)
+      - 2.5.1. Atas de Reuniões
           - [2.5.1.1 Ata de Reunião 1](/Modelagem/2.5.1.1.Atareuniao1.md)
           - [2.5.1.2 Ata de Reunião 2](/Modelagem/2.5.1.2.Atareuniao2.md)
