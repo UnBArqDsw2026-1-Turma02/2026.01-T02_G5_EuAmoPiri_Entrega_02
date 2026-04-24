@@ -1,30 +1,26 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-Demais diretrizes constam no Moodle.
-
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)(Turma)_(Grupo)_(NomeDoProjeto)_(Entrega_02)*. !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2026.1(T02)_G1_DiárioEmocional_Entrega_02*. !!**  
- 
- (Apague esses comentários)
-
-# Nome do Projeto
+# EU AMO PIRI
 
 **Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
+**Número do Grupo**: 05<br>
 **Entrega**: 02<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 22/1022220 |  Amanda De Moura |
+| 22/2006534  |  Anna Clara Cardoso Evangelista Brandão |
+| 23/1030421  |  Davi Marques do Egito Coelho |
+| 23/1026920  |  Eduardo Ribeiro Xavier |
+| 23/1026821  |  Gabriela Dourado França |
+| 23/2027485  |  João Victor Mello da Costa Bruno |
+| 22/1037803  |  Letícia Kellen Ramos Paiva |
+| 22/2025932  |  Mariana Martins Silva |
+| 23/1029734  |  Milena Marques Simões de Oliveira |
+| 23/2014191  |  Samuel Rodrigues Viana Lobo |
+
 
 ## Sobre 
-Contextualize, usando referências, links, e outros materiais como fontes.
+O Eu Amo Piri é para pessoas interessadas em Pirenópolis, que querem montar um roteiro de viagem ou saber mais sobre os lugares interessantes de ir na cidade. Ele será uma aplicação Web, que irá facilitar o acesso com informações centralizadas sobre a cidade de Pirenópolis. O Eu Amo Piri é diferente do Google Maps, AirBnB, pois eles são muito gerais. Assim, o projeto tem como objetivo principal aumentar o engajamento de pessoas interessadas em visitar Pirenópolis através da autonomia na busca de informações.
 
 ## Screenshots da Segunda Entrega
 Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
@@ -33,9 +29,5 @@ Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
 ( ) SIM
 
-( ) NÃO
+(x) NÃO
 
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
-
-## Informações Complementares 
-Quaisquer outras informações adicionais podem ser descritas nessa seção.
