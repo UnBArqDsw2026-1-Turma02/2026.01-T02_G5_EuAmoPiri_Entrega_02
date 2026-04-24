@@ -22,9 +22,6 @@
 ## Sobre 
 O Eu Amo Piri é para pessoas interessadas em Pirenópolis, que querem montar um roteiro de viagem ou saber mais sobre os lugares interessantes de ir na cidade. Ele será uma aplicação Web, que irá facilitar o acesso com informações centralizadas sobre a cidade de Pirenópolis. O Eu Amo Piri é diferente do Google Maps, AirBnB, pois eles são muito gerais. Assim, o projeto tem como objetivo principal aumentar o engajamento de pessoas interessadas em visitar Pirenópolis através da autonomia na busca de informações.
 
-## Screenshots da Segunda Entrega
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
-
 ## Há algo a ser executado?
 
 ( ) SIM
